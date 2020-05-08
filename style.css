@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+}
+.top-bar{
+    background-color: #316dc3;
+    padding: 10px;
+    color: white;
+    width: auto;
+}
+.top-bar i {
+   
+margin: 0px 10px;
+}
+.social-icon a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.container{
+  width:900px;
+  margin: 0 auto;
+}
+
+.social-icon{
+    float: left;
+}
+.text{
+    float: left;
+}
+.top-button{
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+.header-bar{
+   
+    background-color: #f7f8fa;
+}
+
+.menu li{
+    display: inline-block;
+
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+}
+.menu li{
+    padding: 15px;
+    margin: 5px auto;
+    
+}
+.logo{
+    float: left;
+}
+.menu{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+.menu a:hover{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border:1px dashed orange;
+
+}
+.marque{
+    background-color: blue;
+    color: white;
+    height: 30px;
+  }
+
+  h1{
+    text-align: center;
+  
+  }
+  .one{
+    color: blue;
+  }
+  .two{
+    color: green;
+  }
+  p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .say{
+    margin: 0 auto;
+    display: block;
+  }
+
+  .center{
+   height: 500px;
+    background-color: rgba(13, 35, 233, 0.699);
+  }
+  .center ul li{
+display: inline-block;
+margin: 20px 50px ;
+
+
+  }
+  .center ul li img{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin: 10px 100px;
+    padding: 5px;
+    /* display: flex;
+    justify-content: center; */
+
+  }
+
+  .center p{
+    text-align: center;
+    color: white;
+  
+  }
+  .number{
+    font-size: 2em;
+    
+  }
+  .month{
+    color: rgb(77, 236, 77);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+ 
+  .what-are-doing li{
+    display: inline-block;
+    margin: 10px 40px;
+    padding: 3px;
+    background-color: rgba(241, 239, 239, 0.103);
+    box-shadow: 2px 2px 4px darkgray;
+    width: 300px;
+    height: 150px;
+  }
+  .what-are-doing ul img{
+    width: 70px;
+    margin: 8px 40px;
+    padding-left: 70px;
+   
+  }
+  .textt{
+    text-align: center;
+    color: rgba(0, 0, 255, 0.699);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+  .mision{
+    background-color: rgba(241, 239, 239, 0.253);
+    padding: 25px;
+  }
+  .mision h2{
+    color:rgba(0, 0, 255, 0.774) ;
+    padding-left: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+
+  .mision li{
+    display: inline-block;
+    margin: 10px 40px;
+    padding: 5px;
+    background-color: rgba(160, 158, 158, 0.089);
+    box-shadow: 2px 2px 4px darkgray;
+    width: 260px;
+    height: 60px;
+  }
+  .mision span{
+    color: rgba(0, 0, 255, 0.699);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+  }
+  .upcoming{
+    height: 300px;
+    margin: 5px;
+    padding: 25px;
+  }
+  .galary{
+    margin: 10px 50px;
+    padding: 25px;
+    
+  }
+  .galary img:hover{
+    
+
+  }
+.galary h1 span{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ .info{
+   background-color: rgb(87, 85, 85);
+ }
+ .info ul{
+   display: inline-block;
+ }
+ .info h4{
+   color: white;
+   margin:  20px;
+   padding-top: 2em;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ 
+
+ .info  li{
+   margin: 15px 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+   color: whitesmoke;
+ }
+ 
+ 
+ 
+
+ footer{
+   background-color: blue;
+   color: white;
+   height: 50px;
+   padding-top: 15px;
+   padding-left: 25px;
+ } 
